@@ -1,0 +1,159 @@
+version 3
+run General-0-20250509-21:14:35-4478
+attr configname General
+attr datetime 20250509-21:14:35
+attr datetimef 20250509-211435
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network myNetwork
+attr processid 4478
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network myNetwork
+config **.numClients 7
+config **.myNetwork.displayString "\"\""
+config seed-0-mt 11111
+
+par myNetwork.c0.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c0.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c0.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c0.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c0.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c0.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c0.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c0.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c0.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c1.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c1.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c1.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c1.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c1.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c1.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c1.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c1.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c1.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c2.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c2.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c2.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c2.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c2.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c2.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c2.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c2.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c2.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c3.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c3.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c3.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c3.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c3.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c3.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c3.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c3.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c3.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c4.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c4.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c4.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c4.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c4.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c4.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c4.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c4.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c4.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c5.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c5.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c5.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c5.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c5.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c5.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c5.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c5.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c5.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c6.out[0].channel typename "\"ned.DelayChannel\""
+par myNetwork.c6.out[0].channel disabled false
+attr mutable ""
+par myNetwork.c6.out[0].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c6.out[1].channel typename "\"ned.DelayChannel\""
+par myNetwork.c6.out[1].channel disabled false
+attr mutable ""
+par myNetwork.c6.out[1].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c6.out[2].channel typename "\"ned.DelayChannel\""
+par myNetwork.c6.out[2].channel disabled false
+attr mutable ""
+par myNetwork.c6.out[2].channel delay 0.1s
+attr mutable ""
+attr unit s
+par myNetwork.c0 typename "\"Client\""
+par myNetwork.c1 typename "\"Client\""
+par myNetwork.c2 typename "\"Client\""
+par myNetwork.c3 typename "\"Client\""
+par myNetwork.c4 typename "\"Client\""
+par myNetwork.c5 typename "\"Client\""
+par myNetwork.c6 typename "\"Client\""
+par myNetwork typename "\"myNetwork\""
+par myNetwork numClients 7
+

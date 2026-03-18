@@ -1,0 +1,2744 @@
+[0] Node initialized : 0
+
+[0] Node initialized : 1
+
+[0] Node initialized : 2
+
+[0] Node initialized : 3
+
+[0] Node initialized : 4
+
+[0] Node initialized : 5
+
+[0] Node initialized : 6
+
+[0.2] c0 : Task Created : No. : 1 Length : 52
+[0.2] Task :13317 45606 5557 75869 22319 11110 57732 36667 56843 72385 94821 89859 65475 23008 30775 61636 10177 41277 38141 72667 26360 59869 8617 65702 28886 27217 61169 27463 61837 85876 34285 96101 87847 20733 33449 18981 7507 73828 40193 17587 9078 53221 49411 95725 96512 23224 32406 71296 75734 71153 83959 89890 
+[0.2] c0 : SubTask 0 sent  from : 0 to : 0 routed to : 4
+
+[0.2] c0 : SubTask 1 sent  from : 0 to : 1 routed to : 1
+
+[0.2] c0 : SubTask 2 sent  from : 0 to : 2 routed to : 2
+
+[0.2] c0 : SubTask 3 sent  from : 0 to : 3 routed to : 2
+
+[0.2] c0 : SubTask 4 sent  from : 0 to : 4 routed to : 4
+
+[0.2] c0 : SubTask 5 sent  from : 0 to : 5 routed to : 4
+
+[0.2] c0 : SubTask 6 sent  from : 0 to : 6 routed to : 4
+
+[0.2] c0 : SubTask 7 sent  from : 0 to : 0 routed to : 4
+
+[0.2] c0 : SubTask 8 sent  from : 0 to : 1 routed to : 1
+
+[0.2] c0 : SubTask 9 sent  from : 0 to : 2 routed to : 2
+
+[0.2] c0 : SubTask 10 sent  from : 0 to : 3 routed to : 2
+
+[0.2] c0 : SubTask 11 sent  from : 0 to : 4 routed to : 4
+
+[0.2] c1 : Task Created : No. : 1 Length : 37
+[0.2] Task :16084 81558 36422 46878 84794 27043 74163 79628 94598 31400 57531 56035 93323 59407 32918 95147 97873 72371 71174 4308 79870 98454 48531 76271 36976 50152 485 79719 45371 39134 86359 51563 10092 3089 45148 65943 81808 
+[0.2] c1 : SubTask 0 sent  from : 1 to : 0 routed to : 5
+
+[0.2] c1 : SubTask 1 sent  from : 1 to : 1 routed to : 5
+
+[0.2] c1 : SubTask 2 sent  from : 1 to : 2 routed to : 2
+
+[0.2] c1 : SubTask 3 sent  from : 1 to : 3 routed to : 3
+
+[0.2] c1 : SubTask 4 sent  from : 1 to : 4 routed to : 3
+
+[0.2] c1 : SubTask 5 sent  from : 1 to : 5 routed to : 5
+
+[0.2] c1 : SubTask 6 sent  from : 1 to : 6 routed to : 5
+
+[0.2] c1 : SubTask 7 sent  from : 1 to : 0 routed to : 5
+
+[0.2] c1 : SubTask 8 sent  from : 1 to : 1 routed to : 5
+
+[0.2] c2 : Task Created : No. : 1 Length : 31
+[0.2] Task :79573 63474 49440 51601 6318 32189 97394 94799 20363 14570 32841 21570 80828 42815 8498 99499 39017 59171 20127 25499 98044 41954 40996 85400 3579 60356 3919 59286 9996 35009 47058 
+[0.2] c2 : SubTask 0 sent  from : 2 to : 0 routed to : 6
+
+[0.2] c2 : SubTask 1 sent  from : 2 to : 1 routed to : 6
+
+[0.2] c2 : SubTask 2 sent  from : 2 to : 2 routed to : 6
+
+[0.2] c2 : SubTask 3 sent  from : 2 to : 3 routed to : 3
+
+[0.2] c2 : SubTask 4 sent  from : 2 to : 4 routed to : 4
+
+[0.2] c2 : SubTask 5 sent  from : 2 to : 5 routed to : 4
+
+[0.2] c2 : SubTask 6 sent  from : 2 to : 6 routed to : 6
+
+[0.2] c2 : SubTask 7 sent  from : 2 to : 0 routed to : 6
+
+[0.2] c2 : SubTask 8 sent  from : 2 to : 1 routed to : 6
+
+[0.2] c2 : SubTask 9 sent  from : 2 to : 2 routed to : 6
+
+[0.2] c3 : Task Created : No. : 1 Length : 24
+[0.2] Task :86662 62935 1040 60372 19062 5095 13153 23369 24784 24077 92637 6739 52146 12942 79553 82870 20864 74960 99542 15425 74265 11402 95186 75644 
+[0.2] c3 : SubTask 0 sent  from : 3 to : 0 routed to : 0
+
+[0.2] c3 : SubTask 1 sent  from : 3 to : 1 routed to : 0
+
+[0.2] c3 : SubTask 2 sent  from : 3 to : 2 routed to : 0
+
+[0.2] c3 : SubTask 3 sent  from : 3 to : 3 routed to : 0
+
+[0.2] c3 : SubTask 4 sent  from : 3 to : 4 routed to : 4
+
+[0.2] c3 : SubTask 5 sent  from : 3 to : 5 routed to : 5
+
+[0.2] c3 : SubTask 6 sent  from : 3 to : 6 routed to : 5
+
+[0.2] c3 : SubTask 7 sent  from : 3 to : 0 routed to : 0
+
+[0.2] c4 : Task Created : No. : 1 Length : 48
+[0.2] Task :51166 26367 53267 82150 39652 21641 52030 63843 31492 23807 80496 98944 8445 7076 29274 56084 9632 69910 98181 6775 44972 71038 66345 60750 2354 74975 99731 33373 16881 53083 43770 98537 87106 55515 65656 11129 90851 92679 53746 84924 72467 27052 90326 24154 22277 54237 98852 66961 
+[0.2] c4 : SubTask 0 sent  from : 4 to : 0 routed to : 6
+
+[0.2] c4 : SubTask 1 sent  from : 4 to : 1 routed to : 1
+
+[0.2] c4 : SubTask 2 sent  from : 4 to : 2 routed to : 1
+
+[0.2] c4 : SubTask 3 sent  from : 4 to : 3 routed to : 1
+
+[0.2] c4 : SubTask 4 sent  from : 4 to : 4 routed to : 1
+
+[0.2] c4 : SubTask 5 sent  from : 4 to : 5 routed to : 5
+
+[0.2] c4 : SubTask 6 sent  from : 4 to : 6 routed to : 6
+
+[0.2] c4 : SubTask 7 sent  from : 4 to : 0 routed to : 6
+
+[0.2] c4 : SubTask 8 sent  from : 4 to : 1 routed to : 1
+
+[0.2] c4 : SubTask 9 sent  from : 4 to : 2 routed to : 1
+
+[0.2] c4 : SubTask 10 sent  from : 4 to : 3 routed to : 1
+
+[0.2] c5 : Task Created : No. : 1 Length : 44
+[0.2] Task :139 30399 56886 3285 32661 51013 88272 15528 16105 92219 83187 18722 11525 76534 48977 34831 78817 14351 44316 19295 74930 53957 22874 37382 82344 755 9021 50425 87097 45034 69809 67914 22930 52301 74600 10714 7376 63535 49683 65909 56625 36633 38728 85080 
+[0.2] c5 : SubTask 0 sent  from : 5 to : 0 routed to : 0
+
+[0.2] c5 : SubTask 1 sent  from : 5 to : 1 routed to : 0
+
+[0.2] c5 : SubTask 2 sent  from : 5 to : 2 routed to : 2
+
+[0.2] c5 : SubTask 3 sent  from : 5 to : 3 routed to : 2
+
+[0.2] c5 : SubTask 4 sent  from : 5 to : 4 routed to : 2
+
+[0.2] c5 : SubTask 5 sent  from : 5 to : 5 routed to : 2
+
+[0.2] c5 : SubTask 6 sent  from : 5 to : 6 routed to : 6
+
+[0.2] c5 : SubTask 7 sent  from : 5 to : 0 routed to : 0
+
+[0.2] c5 : SubTask 8 sent  from : 5 to : 1 routed to : 0
+
+[0.2] c5 : SubTask 9 sent  from : 5 to : 2 routed to : 2
+
+[0.2] c5 : SubTask 10 sent  from : 5 to : 3 routed to : 2
+
+[0.2] c5 : SubTask 11 sent  from : 5 to : 4 routed to : 2
+
+[0.2] c6 : Task Created : No. : 1 Length : 46
+[0.2] Task :59969 61802 11283 80268 82684 95746 68191 6059 92707 64313 86725 19918 13275 85837 64522 7454 43778 67199 26647 39738 97693 61976 54955 49307 68792 62873 50072 86300 2937 53466 96178 63765 84450 10652 19096 65687 19971 43652 77126 96338 3865 8794 38771 67206 18042 5699 
+[0.2] c6 : SubTask 0 sent  from : 6 to : 0 routed to : 0
+
+[0.2] c6 : SubTask 1 sent  from : 6 to : 1 routed to : 1
+
+[0.2] c6 : SubTask 2 sent  from : 6 to : 2 routed to : 1
+
+[0.2] c6 : SubTask 3 sent  from : 6 to : 3 routed to : 3
+
+[0.2] c6 : SubTask 4 sent  from : 6 to : 4 routed to : 3
+
+[0.2] c6 : SubTask 5 sent  from : 6 to : 5 routed to : 3
+
+[0.2] c6 : SubTask 6 sent  from : 6 to : 6 routed to : 3
+
+[0.2] c6 : SubTask 7 sent  from : 6 to : 0 routed to : 0
+
+[0.2] c6 : SubTask 8 sent  from : 6 to : 1 routed to : 1
+
+[0.2] c6 : SubTask 9 sent  from : 6 to : 2 routed to : 1
+
+[0.3] c4 : Task routed to : 6 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 11110 57732 36667 56843 72385 
+[0.3] Answer : 72385
+
+[0.3] c1 : Subtask response sent to : 0
+
+[0.3] c2 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 5
+[0.3] Subtask : 94821 89859 65475 23008 30775 
+[0.3] Answer : 94821
+
+[0.3] c2 : Subtask response sent to : 0
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 4
+[0.3] Subtask : 26360 59869 8617 65702 
+[0.3] Answer : 65702
+
+[0.3] c4 : Subtask response sent to : 0
+
+[0.3] c4 : Task routed to : 5 : Destination : 5
+
+[0.3] c4 : Task routed to : 6 : Destination : 6
+
+[0.3] c4 : Task routed to : 6 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 7507 73828 40193 17587 
+[0.3] Answer : 73828
+
+[0.3] c1 : Subtask response sent to : 0
+
+[0.3] c2 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 9 : Sub Task Length : 4
+[0.3] Subtask : 9078 53221 49411 95725 
+[0.3] Answer : 95725
+
+[0.3] c2 : Subtask response sent to : 0
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 11 : Sub Task Length : 4
+[0.3] Subtask : 75734 71153 83959 89890 
+[0.3] Answer : 89890
+
+[0.3] c4 : Subtask response sent to : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 4
+[0.3] Subtask : 31400 57531 56035 93323 
+[0.3] Answer : 93323
+
+[0.3] c2 : Subtask response sent to : 1
+
+[0.3] c3 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 4
+[0.3] Subtask : 59407 32918 95147 97873 
+[0.3] Answer : 97873
+
+[0.3] c3 : Subtask response sent to : 1
+
+[0.3] c3 : Task routed to : 4 : Destination : 4
+
+[0.3] c5 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 4
+[0.3] Subtask : 98454 48531 76271 36976 
+[0.3] Answer : 98454
+
+[0.3] c5 : Subtask response sent to : 1
+
+[0.3] c5 : Task routed to : 6 : Destination : 6
+
+[0.3] c5 : Task routed to : 0 : Destination : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 1
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c6 : Task routed to : 1 : Destination : 1
+
+[0.3] c6 : Task routed to : 1 : Destination : 2
+
+[0.3] c3 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 3
+[0.3] Subtask : 32841 21570 80828 
+[0.3] Answer : 80828
+
+[0.3] c3 : Subtask response sent to : 2
+
+[0.3] c4 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 3
+[0.3] Subtask : 42815 8498 99499 
+[0.3] Answer : 99499
+
+[0.3] c4 : Subtask response sent to : 2
+
+[0.3] c4 : Task routed to : 5 : Destination : 5
+
+[0.3] c6 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 3
+[0.3] Subtask : 25499 98044 41954 
+[0.3] Answer : 98044
+
+[0.3] c6 : Subtask response sent to : 2
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c6 : Task routed to : 1 : Destination : 1
+
+[0.3] c6 : Task routed to : 1 : Destination : 2
+
+[0.3] c0 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 3
+[0.3] Subtask : 86662 62935 1040 
+[0.3] Answer : 86662
+
+[0.3] c0 : Subtask response sent to : 3
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c0 : Task routed to : 2 : Destination : 2
+
+[0.3] c0 : Task routed to : 2 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 3
+[0.3] Subtask : 52146 12942 79553 
+[0.3] Answer : 79553
+
+[0.3] c4 : Subtask response sent to : 3
+
+[0.3] c5 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 3
+[0.3] Subtask : 82870 20864 74960 
+[0.3] Answer : 82870
+
+[0.3] c5 : Subtask response sent to : 3
+
+[0.3] c5 : Task routed to : 6 : Destination : 6
+
+[0.3] c0 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 3
+[0.3] Subtask : 11402 95186 75644 
+[0.3] Answer : 95186
+
+[0.3] c0 : Subtask response sent to : 3
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 21641 52030 63843 31492 23807 
+[0.3] Answer : 63843
+
+[0.3] c1 : Subtask response sent to : 4
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c1 : Task routed to : 3 : Destination : 3
+
+[0.3] c1 : Task routed to : 3 : Destination : 4
+
+[0.3] c5 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 4
+[0.3] Subtask : 2354 74975 99731 33373 
+[0.3] Answer : 99731
+
+[0.3] c5 : Subtask response sent to : 4
+
+[0.3] c6 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 4
+[0.3] Subtask : 16881 53083 43770 98537 
+[0.3] Answer : 98537
+
+[0.3] c6 : Subtask response sent to : 4
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 90851 92679 53746 84924 
+[0.3] Answer : 92679
+
+[0.3] c1 : Subtask response sent to : 4
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c1 : Task routed to : 3 : Destination : 3
+
+[0.3] c0 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 4
+[0.3] Subtask : 139 30399 56886 3285 
+[0.3] Answer : 56886
+
+[0.3] c0 : Subtask response sent to : 5
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 4
+[0.3] Subtask : 16105 92219 83187 18722 
+[0.3] Answer : 92219
+
+[0.3] c2 : Subtask response sent to : 5
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c2 : Task routed to : 4 : Destination : 4
+
+[0.3] c2 : Task routed to : 4 : Destination : 5
+
+[0.3] c6 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 4
+[0.3] Subtask : 82344 755 9021 50425 
+[0.3] Answer : 82344
+
+[0.3] c6 : Subtask response sent to : 5
+
+[0.3] c0 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 4
+[0.3] Subtask : 87097 45034 69809 67914 
+[0.3] Answer : 87097
+
+[0.3] c0 : Subtask response sent to : 5
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 9 : Sub Task Length : 3
+[0.3] Subtask : 10714 7376 63535 
+[0.3] Answer : 63535
+
+[0.3] c2 : Subtask response sent to : 5
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c2 : Task routed to : 4 : Destination : 4
+
+[0.3] c0 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 5
+[0.3] Subtask : 59969 61802 11283 80268 82684 
+[0.3] Answer : 82684
+
+[0.3] c0 : Subtask response sent to : 6
+
+[0.3] c1 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 95746 68191 6059 92707 64313 
+[0.3] Answer : 95746
+
+[0.3] c1 : Subtask response sent to : 6
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c3 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 5
+[0.3] Subtask : 7454 43778 67199 26647 39738 
+[0.3] Answer : 67199
+
+[0.3] c3 : Subtask response sent to : 6
+
+[0.3] c3 : Task routed to : 4 : Destination : 4
+
+[0.3] c3 : Task routed to : 5 : Destination : 5
+
+[0.3] c3 : Task routed to : 5 : Destination : 6
+
+[0.3] c0 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 4
+[0.3] Subtask : 19096 65687 19971 43652 
+[0.3] Answer : 65687
+
+[0.3] c0 : Subtask response sent to : 6
+
+[0.3] c1 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 77126 96338 3865 8794 
+[0.3] Answer : 96338
+
+[0.3] c1 : Subtask response sent to : 6
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c6 : Task routed to : 0 : Destination : 0
+
+[0.4] c3 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 5
+[0.4] Subtask : 61636 10177 41277 38141 72667 
+[0.4] Answer : 72667
+
+[0.4] c3 : Subtask response sent to : 0
+
+[0.4] c5 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 4
+[0.4] Subtask : 28886 27217 61169 27463 
+[0.4] Answer : 61169
+
+[0.4] c5 : Subtask response sent to : 0
+
+[0.4] c6 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 4
+[0.4] Subtask : 61837 85876 34285 96101 
+[0.4] Answer : 96101
+
+[0.4] c6 : Subtask response sent to : 0
+
+[0.4] c6 : Task routed to : 0 : Destination : 0
+
+[0.4] c3 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 4
+[0.4] Subtask : 96512 23224 32406 71296 
+[0.4] Answer : 96512
+
+[0.4] c3 : Subtask response sent to : 0
+
+[0.4] c0 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 5
+[0.4] Subtask : 16084 81558 36422 46878 84794 
+[0.4] Answer : 84794
+
+[0.4] c0 : Subtask response sent to : 1
+
+[0.4] c0 : Task routed to : 1 : Destination : 1
+
+[0.4] c4 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 4
+[0.4] Subtask : 72371 71174 4308 79870 
+[0.4] Answer : 79870
+
+[0.4] c4 : Subtask response sent to : 1
+
+[0.4] c6 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 4
+[0.4] Subtask : 50152 485 79719 45371 
+[0.4] Answer : 79719
+
+[0.4] c6 : Subtask response sent to : 1
+
+[0.4] c0 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 4
+[0.4] Subtask : 39134 86359 51563 10092 
+[0.4] Answer : 86359
+
+[0.4] c0 : Subtask response sent to : 1
+
+[0.4] c0 : Task routed to : 1 : Destination : 1
+
+[0.4] c0 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 4
+[0.4] Subtask : 79573 63474 49440 51601 
+[0.4] Answer : 79573
+
+[0.4] c0 : Subtask response sent to : 2
+
+[0.4] c1 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 3
+[0.4] Subtask : 6318 32189 97394 
+[0.4] Answer : 97394
+
+[0.4] c1 : Subtask response sent to : 2
+
+[0.4] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c5 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 3
+[0.4] Subtask : 39017 59171 20127 
+[0.4] Answer : 59171
+
+[0.4] c5 : Subtask response sent to : 2
+
+[0.4] c0 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 3
+[0.4] Subtask : 40996 85400 3579 
+[0.4] Answer : 85400
+
+[0.4] c0 : Subtask response sent to : 2
+
+[0.4] c1 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 8 : Sub Task Length : 3
+[0.4] Subtask : 60356 3919 59286 
+[0.4] Answer : 60356
+
+[0.4] c1 : Subtask response sent to : 2
+
+[0.4] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c1 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 3
+[0.4] Subtask : 60372 19062 5095 
+[0.4] Answer : 60372
+
+[0.4] c1 : Subtask response sent to : 3
+
+[0.4] c2 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 3
+[0.4] Subtask : 13153 23369 24784 
+[0.4] Answer : 24784
+
+[0.4] c2 : Subtask response sent to : 3
+
+[0.4] c2 : Task routed to : 3 : Destination : 3
+
+[0.4] c6 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 3
+[0.4] Subtask : 99542 15425 74265 
+[0.4] Answer : 99542
+
+[0.4] c6 : Subtask response sent to : 3
+
+[0.4] c0 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 5
+[0.4] Subtask : 51166 26367 53267 82150 39652 
+[0.4] Answer : 82150
+
+[0.4] c0 : Subtask response sent to : 4
+
+[0.4] c2 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 5
+[0.4] Subtask : 80496 98944 8445 7076 29274 
+[0.4] Answer : 98944
+
+[0.4] c2 : Subtask response sent to : 4
+
+[0.4] c3 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 5
+[0.4] Subtask : 56084 9632 69910 98181 6775 
+[0.4] Answer : 98181
+
+[0.4] c3 : Subtask response sent to : 4
+
+[0.4] c3 : Task routed to : 4 : Destination : 4
+
+[0.4] c0 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 4
+[0.4] Subtask : 87106 55515 65656 11129 
+[0.4] Answer : 87106
+
+[0.4] c0 : Subtask response sent to : 4
+
+[0.4] c2 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 9 : Sub Task Length : 4
+[0.4] Subtask : 72467 27052 90326 24154 
+[0.4] Answer : 90326
+
+[0.4] c2 : Subtask response sent to : 4
+
+[0.4] c3 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 4
+[0.4] Subtask : 22277 54237 98852 66961 
+[0.4] Answer : 98852
+
+[0.4] c3 : Subtask response sent to : 4
+
+[0.4] c1 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 4
+[0.4] Subtask : 32661 51013 88272 15528 
+[0.4] Answer : 88272
+
+[0.4] c1 : Subtask response sent to : 5
+
+[0.4] c3 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 4
+[0.4] Subtask : 11525 76534 48977 34831 
+[0.4] Answer : 76534
+
+[0.4] c3 : Subtask response sent to : 5
+
+[0.4] c4 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 4
+[0.4] Subtask : 78817 14351 44316 19295 
+[0.4] Answer : 78817
+
+[0.4] c4 : Subtask response sent to : 5
+
+[0.4] c4 : Task routed to : 5 : Destination : 5
+
+[0.4] c1 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 8 : Sub Task Length : 3
+[0.4] Subtask : 22930 52301 74600 
+[0.4] Answer : 74600
+
+[0.4] c1 : Subtask response sent to : 5
+
+[0.4] c3 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 3
+[0.4] Subtask : 49683 65909 56625 
+[0.4] Answer : 65909
+
+[0.4] c3 : Subtask response sent to : 5
+
+[0.4] c4 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 11 : Sub Task Length : 3
+[0.4] Subtask : 36633 38728 85080 
+[0.4] Answer : 85080
+
+[0.4] c4 : Subtask response sent to : 5
+
+[0.4] c2 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 5
+[0.4] Subtask : 86725 19918 13275 85837 64522 
+[0.4] Answer : 86725
+
+[0.4] c2 : Subtask response sent to : 6
+
+[0.4] c4 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 5
+[0.4] Subtask : 97693 61976 54955 49307 68792 
+[0.4] Answer : 97693
+
+[0.4] c4 : Subtask response sent to : 6
+
+[0.4] c5 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 5
+[0.4] Subtask : 62873 50072 86300 2937 53466 
+[0.4] Answer : 86300
+
+[0.4] c5 : Subtask response sent to : 6
+
+[0.4] c5 : Task routed to : 6 : Destination : 6
+
+[0.4] c2 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 9 : Sub Task Length : 4
+[0.4] Subtask : 38771 67206 18042 5699 
+[0.4] Answer : 67206
+
+[0.4] c2 : Subtask response sent to : 6
+
+[0.5] c0 : Subtask recieved : From : 0 Task Num : 1
+[0.5] Sub Task Num : 0 : Sub Task Length : 5
+[0.5] Subtask : 13317 45606 5557 75869 22319 
+[0.5] Answer : 75869
+
+[0.5] c0 : Subtask response sent to : 0
+
+[0.5] c0 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :72385
+
+[0.5] c0 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :94821
+
+[0.5] c0 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :72667
+
+[0.5] c0 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :65702
+
+[0.5] c0 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :61169
+
+[0.5] c0 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :96101
+
+[0.5] c0 : Subtask recieved : From : 0 Task Num : 1
+[0.5] Sub Task Num : 7 : Sub Task Length : 4
+[0.5] Subtask : 87847 20733 33449 18981 
+[0.5] Answer : 87847
+
+[0.5] c0 : Subtask response sent to : 0
+
+[0.5] c0 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :73828
+
+[0.5] c0 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :95725
+
+[0.5] c0 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :96512
+
+[0.5] c0 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 11 : answer :89890
+
+[0.5] c1 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :84794
+
+[0.5] c1 : Subtask recieved : From : 1 Task Num : 1
+[0.5] Sub Task Num : 1 : Sub Task Length : 4
+[0.5] Subtask : 27043 74163 79628 94598 
+[0.5] Answer : 94598
+
+[0.5] c1 : Subtask response sent to : 1
+
+[0.5] c1 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :93323
+
+[0.5] c1 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :97873
+
+[0.5] c1 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :79870
+
+[0.5] c1 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :98454
+
+[0.5] c1 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :79719
+
+[0.5] c1 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :86359
+
+[0.5] c1 : Subtask recieved : From : 1 Task Num : 1
+[0.5] Sub Task Num : 8 : Sub Task Length : 4
+[0.5] Subtask : 3089 45148 65943 81808 
+[0.5] Answer : 81808
+
+[0.5] c1 : Subtask response sent to : 1
+
+[0.5] c2 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :79573
+
+[0.5] c2 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :97394
+
+[0.5] c2 : Subtask recieved : From : 2 Task Num : 1
+[0.5] Sub Task Num : 2 : Sub Task Length : 3
+[0.5] Subtask : 94799 20363 14570 
+[0.5] Answer : 94799
+
+[0.5] c2 : Subtask response sent to : 2
+
+[0.5] c2 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :80828
+
+[0.5] c2 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :99499
+
+[0.5] c2 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :59171
+
+[0.5] c2 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :98044
+
+[0.5] c2 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :85400
+
+[0.5] c2 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :60356
+
+[0.5] c2 : Subtask recieved : From : 2 Task Num : 1
+[0.5] Sub Task Num : 9 : Sub Task Length : 3
+[0.5] Subtask : 9996 35009 47058 
+[0.5] Answer : 47058
+
+[0.5] c2 : Subtask response sent to : 2
+
+[0.5] c3 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :86662
+
+[0.5] c3 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :60372
+
+[0.5] c3 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :24784
+
+[0.5] c3 : Subtask recieved : From : 3 Task Num : 1
+[0.5] Sub Task Num : 3 : Sub Task Length : 3
+[0.5] Subtask : 24077 92637 6739 
+[0.5] Answer : 92637
+
+[0.5] c3 : Subtask response sent to : 3
+
+[0.5] c3 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :79553
+
+[0.5] c3 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :82870
+
+[0.5] c3 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :99542
+
+[0.5] c3 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :95186
+
+[0.5] c4 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :82150
+
+[0.5] c4 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :63843
+
+[0.5] c4 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :98944
+
+[0.5] c4 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :98181
+
+[0.5] c4 : Subtask recieved : From : 4 Task Num : 1
+[0.5] Sub Task Num : 4 : Sub Task Length : 4
+[0.5] Subtask : 44972 71038 66345 60750 
+[0.5] Answer : 71038
+
+[0.5] c4 : Subtask response sent to : 4
+
+[0.5] c4 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :99731
+
+[0.5] c4 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :98537
+
+[0.5] c4 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87106
+
+[0.5] c4 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :92679
+
+[0.5] c4 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :90326
+
+[0.5] c4 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :98852
+
+[0.5] c5 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :56886
+
+[0.5] c5 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :88272
+
+[0.5] c5 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :92219
+
+[0.5] c5 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :76534
+
+[0.5] c5 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :78817
+
+[0.5] c5 : Subtask recieved : From : 5 Task Num : 1
+[0.5] Sub Task Num : 5 : Sub Task Length : 4
+[0.5] Subtask : 74930 53957 22874 37382 
+[0.5] Answer : 74930
+
+[0.5] c5 : Subtask response sent to : 5
+
+[0.5] c5 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :82344
+
+[0.5] c5 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87097
+
+[0.5] c5 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :74600
+
+[0.5] c5 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :63535
+
+[0.5] c5 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :65909
+
+[0.5] c5 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 11 : answer :85080
+
+[0.5] c6 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :82684
+
+[0.5] c6 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :95746
+
+[0.5] c6 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :86725
+
+[0.5] c6 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :67199
+
+[0.5] c6 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :97693
+
+[0.5] c6 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :86300
+
+[0.5] c6 : Subtask recieved : From : 6 Task Num : 1
+[0.5] Sub Task Num : 6 : Sub Task Length : 4
+[0.5] Subtask : 96178 63765 84450 10652 
+[0.5] Answer : 96178
+
+[0.5] c6 : Subtask response sent to : 6
+
+[0.5] c6 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :65687
+
+[0.5] c6 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :96338
+
+[0.5] c6 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :67206
+
+[0.8] c0 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :75869
+
+[0.8] c0 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87847
+
+[0.8] c0 : Task Solved : Task Num : 1 Answer :96512
+
+[0.8] c0 : Gossip Sent From : 0 : to : 1
+
+[0.8] c0 : Gossip Sent From : 0 : to : 2
+
+[0.8] c0 : Gossip Sent From : 0 : to : 4
+
+[0.8] c1 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :94598
+
+[0.8] c1 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :81808
+
+[0.8] c1 : Task Solved : Task Num : 1 Answer :98454
+
+[0.8] c1 : Gossip Sent From : 1 : to : 2
+
+[0.8] c1 : Gossip Sent From : 1 : to : 3
+
+[0.8] c1 : Gossip Sent From : 1 : to : 5
+
+[0.8] c2 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :94799
+
+[0.8] c2 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :47058
+
+[0.8] c2 : Task Solved : Task Num : 1 Answer :99499
+
+[0.8] c2 : Gossip Sent From : 2 : to : 3
+
+[0.8] c2 : Gossip Sent From : 2 : to : 4
+
+[0.8] c2 : Gossip Sent From : 2 : to : 6
+
+[0.8] c3 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :92637
+
+[0.8] c3 : Task Solved : Task Num : 1 Answer :99542
+
+[0.8] c3 : Gossip Sent From : 3 : to : 4
+
+[0.8] c3 : Gossip Sent From : 3 : to : 5
+
+[0.8] c3 : Gossip Sent From : 3 : to : 0
+
+[0.8] c4 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :71038
+
+[0.8] c4 : Task Solved : Task Num : 1 Answer :99731
+
+[0.8] c4 : Gossip Sent From : 4 : to : 5
+
+[0.8] c4 : Gossip Sent From : 4 : to : 6
+
+[0.8] c4 : Gossip Sent From : 4 : to : 1
+
+[0.8] c5 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :74930
+
+[0.8] c5 : Task Solved : Task Num : 1 Answer :92219
+
+[0.8] c5 : Gossip Sent From : 5 : to : 6
+
+[0.8] c5 : Gossip Sent From : 5 : to : 0
+
+[0.8] c5 : Gossip Sent From : 5 : to : 2
+
+[0.8] c6 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :96178
+
+[0.8] c6 : Task Solved : Task Num : 1 Answer :97693
+
+[0.8] c6 : Gossip Sent From : 6 : to : 0
+
+[0.8] c6 : Gossip Sent From : 6 : to : 1
+
+[0.8] c6 : Gossip Sent From : 6 : to : 3
+
+[0.9] c1 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c2 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c2 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c3 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c3 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[0.9] c4 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c4 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c5 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c5 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c6 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c6 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c0 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c0 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c1 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[1] c3 : Gossip recv from : 1 Gossip = 0.8:c0:1:96512
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip recv from : 1 Gossip = 0.8:c0:1:96512
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1] c6 : Gossip recv from : 2 Gossip = 0.8:c0:1:96512
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c4 : Gossip recv from : 2 Gossip = 0.8:c1:1:98454
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip recv from : 2 Gossip = 0.8:c1:1:98454
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c0 : Gossip recv from : 3 Gossip = 0.8:c1:1:98454
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c5 : Gossip recv from : 3 Gossip = 0.8:c2:1:99499
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip recv from : 3 Gossip = 0.8:c2:1:99499
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c1 : Gossip recv from : 4 Gossip = 0.8:c2:1:99499
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c6 : Gossip recv from : 4 Gossip = 0.8:c3:1:99542
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip recv from : 4 Gossip = 0.8:c3:1:99542
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c2 : Gossip recv from : 5 Gossip = 0.8:c3:1:99542
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c0 : Gossip recv from : 5 Gossip = 0.8:c4:1:99731
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip recv from : 5 Gossip = 0.8:c4:1:99731
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c3 : Gossip recv from : 6 Gossip = 0.8:c4:1:99731
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c1 : Gossip recv from : 6 Gossip = 0.8:c5:1:92219
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip recv from : 6 Gossip = 0.8:c5:1:92219
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c4 : Gossip recv from : 0 Gossip = 0.8:c5:1:92219
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c2 : Gossip recv from : 0 Gossip = 0.8:c6:1:97693
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip recv from : 0 Gossip = 0.8:c6:1:97693
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c5 : Gossip recv from : 1 Gossip = 0.8:c6:1:97693
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1.1] c0 : Gossip recv from : 3 Gossip = 0.8:c0:1:96512
+
+[1.1] c0 : Gossip Forwarded to : 1
+
+[1.1] c0 : Gossip Forwarded to : 2
+
+[1.1] c0 : Gossip Forwarded to : 4
+
+[1.1] c1 : Gossip recv from : 4 Gossip = 0.8:c1:1:98454
+
+[1.1] c1 : Gossip Forwarded to : 2
+
+[1.1] c1 : Gossip Forwarded to : 3
+
+[1.1] c1 : Gossip Forwarded to : 5
+
+[1.1] c2 : Gossip recv from : 5 Gossip = 0.8:c2:1:99499
+
+[1.1] c2 : Gossip Forwarded to : 3
+
+[1.1] c2 : Gossip Forwarded to : 4
+
+[1.1] c2 : Gossip Forwarded to : 6
+
+[1.1] c3 : Gossip recv from : 6 Gossip = 0.8:c3:1:99542
+
+[1.1] c3 : Gossip Forwarded to : 4
+
+[1.1] c3 : Gossip Forwarded to : 5
+
+[1.1] c3 : Gossip Forwarded to : 0
+
+[1.1] c4 : Gossip recv from : 0 Gossip = 0.8:c4:1:99731
+
+[1.1] c4 : Gossip Forwarded to : 5
+
+[1.1] c4 : Gossip Forwarded to : 6
+
+[1.1] c4 : Gossip Forwarded to : 1
+
+[1.1] c5 : Gossip recv from : 1 Gossip = 0.8:c5:1:92219
+
+[1.1] c5 : Gossip Forwarded to : 6
+
+[1.1] c5 : Gossip Forwarded to : 0
+
+[1.1] c5 : Gossip Forwarded to : 2
+
+[1.1] c6 : Gossip recv from : 2 Gossip = 0.8:c6:1:97693
+
+[1.1] c6 : Gossip Forwarded to : 0
+
+[1.1] c6 : Gossip Forwarded to : 1
+
+[1.1] c6 : Gossip Forwarded to : 3
+
+[0] Node initialized : 0
+
+[0] Node initialized : 1
+
+[0] Node initialized : 2
+
+[0] Node initialized : 3
+
+[0] Node initialized : 4
+
+[0] Node initialized : 5
+
+[0] Node initialized : 6
+
+[0.2] c0 : Task Created : No. : 1 Length : 52
+[0.2] Task :13317 45606 5557 75869 22319 11110 57732 36667 56843 72385 94821 89859 65475 23008 30775 61636 10177 41277 38141 72667 26360 59869 8617 65702 28886 27217 61169 27463 61837 85876 34285 96101 87847 20733 33449 18981 7507 73828 40193 17587 9078 53221 49411 95725 96512 23224 32406 71296 75734 71153 83959 89890 
+[0.2] c0 : SubTask 0 sent  from : 0 to : 0 routed to : 4
+
+[0.2] c0 : SubTask 1 sent  from : 0 to : 1 routed to : 1
+
+[0.2] c0 : SubTask 2 sent  from : 0 to : 2 routed to : 2
+
+[0.2] c0 : SubTask 3 sent  from : 0 to : 3 routed to : 2
+
+[0.2] c0 : SubTask 4 sent  from : 0 to : 4 routed to : 4
+
+[0.2] c0 : SubTask 5 sent  from : 0 to : 5 routed to : 4
+
+[0.2] c0 : SubTask 6 sent  from : 0 to : 6 routed to : 4
+
+[0.2] c0 : SubTask 7 sent  from : 0 to : 0 routed to : 4
+
+[0.2] c0 : SubTask 8 sent  from : 0 to : 1 routed to : 1
+
+[0.2] c0 : SubTask 9 sent  from : 0 to : 2 routed to : 2
+
+[0.2] c0 : SubTask 10 sent  from : 0 to : 3 routed to : 2
+
+[0.2] c0 : SubTask 11 sent  from : 0 to : 4 routed to : 4
+
+[0.2] c1 : Task Created : No. : 1 Length : 37
+[0.2] Task :16084 81558 36422 46878 84794 27043 74163 79628 94598 31400 57531 56035 93323 59407 32918 95147 97873 72371 71174 4308 79870 98454 48531 76271 36976 50152 485 79719 45371 39134 86359 51563 10092 3089 45148 65943 81808 
+[0.2] c1 : SubTask 0 sent  from : 1 to : 0 routed to : 5
+
+[0.2] c1 : SubTask 1 sent  from : 1 to : 1 routed to : 5
+
+[0.2] c1 : SubTask 2 sent  from : 1 to : 2 routed to : 2
+
+[0.2] c1 : SubTask 3 sent  from : 1 to : 3 routed to : 3
+
+[0.2] c1 : SubTask 4 sent  from : 1 to : 4 routed to : 3
+
+[0.2] c1 : SubTask 5 sent  from : 1 to : 5 routed to : 5
+
+[0.2] c1 : SubTask 6 sent  from : 1 to : 6 routed to : 5
+
+[0.2] c1 : SubTask 7 sent  from : 1 to : 0 routed to : 5
+
+[0.2] c1 : SubTask 8 sent  from : 1 to : 1 routed to : 5
+
+[0.2] c2 : Task Created : No. : 1 Length : 31
+[0.2] Task :79573 63474 49440 51601 6318 32189 97394 94799 20363 14570 32841 21570 80828 42815 8498 99499 39017 59171 20127 25499 98044 41954 40996 85400 3579 60356 3919 59286 9996 35009 47058 
+[0.2] c2 : SubTask 0 sent  from : 2 to : 0 routed to : 6
+
+[0.2] c2 : SubTask 1 sent  from : 2 to : 1 routed to : 6
+
+[0.2] c2 : SubTask 2 sent  from : 2 to : 2 routed to : 6
+
+[0.2] c2 : SubTask 3 sent  from : 2 to : 3 routed to : 3
+
+[0.2] c2 : SubTask 4 sent  from : 2 to : 4 routed to : 4
+
+[0.2] c2 : SubTask 5 sent  from : 2 to : 5 routed to : 4
+
+[0.2] c2 : SubTask 6 sent  from : 2 to : 6 routed to : 6
+
+[0.2] c2 : SubTask 7 sent  from : 2 to : 0 routed to : 6
+
+[0.2] c2 : SubTask 8 sent  from : 2 to : 1 routed to : 6
+
+[0.2] c2 : SubTask 9 sent  from : 2 to : 2 routed to : 6
+
+[0.2] c3 : Task Created : No. : 1 Length : 24
+[0.2] Task :86662 62935 1040 60372 19062 5095 13153 23369 24784 24077 92637 6739 52146 12942 79553 82870 20864 74960 99542 15425 74265 11402 95186 75644 
+[0.2] c3 : SubTask 0 sent  from : 3 to : 0 routed to : 0
+
+[0.2] c3 : SubTask 1 sent  from : 3 to : 1 routed to : 0
+
+[0.2] c3 : SubTask 2 sent  from : 3 to : 2 routed to : 0
+
+[0.2] c3 : SubTask 3 sent  from : 3 to : 3 routed to : 0
+
+[0.2] c3 : SubTask 4 sent  from : 3 to : 4 routed to : 4
+
+[0.2] c3 : SubTask 5 sent  from : 3 to : 5 routed to : 5
+
+[0.2] c3 : SubTask 6 sent  from : 3 to : 6 routed to : 5
+
+[0.2] c3 : SubTask 7 sent  from : 3 to : 0 routed to : 0
+
+[0.2] c4 : Task Created : No. : 1 Length : 48
+[0.2] Task :51166 26367 53267 82150 39652 21641 52030 63843 31492 23807 80496 98944 8445 7076 29274 56084 9632 69910 98181 6775 44972 71038 66345 60750 2354 74975 99731 33373 16881 53083 43770 98537 87106 55515 65656 11129 90851 92679 53746 84924 72467 27052 90326 24154 22277 54237 98852 66961 
+[0.2] c4 : SubTask 0 sent  from : 4 to : 0 routed to : 6
+
+[0.2] c4 : SubTask 1 sent  from : 4 to : 1 routed to : 1
+
+[0.2] c4 : SubTask 2 sent  from : 4 to : 2 routed to : 1
+
+[0.2] c4 : SubTask 3 sent  from : 4 to : 3 routed to : 1
+
+[0.2] c4 : SubTask 4 sent  from : 4 to : 4 routed to : 1
+
+[0.2] c4 : SubTask 5 sent  from : 4 to : 5 routed to : 5
+
+[0.2] c4 : SubTask 6 sent  from : 4 to : 6 routed to : 6
+
+[0.2] c4 : SubTask 7 sent  from : 4 to : 0 routed to : 6
+
+[0.2] c4 : SubTask 8 sent  from : 4 to : 1 routed to : 1
+
+[0.2] c4 : SubTask 9 sent  from : 4 to : 2 routed to : 1
+
+[0.2] c4 : SubTask 10 sent  from : 4 to : 3 routed to : 1
+
+[0.2] c5 : Task Created : No. : 1 Length : 44
+[0.2] Task :139 30399 56886 3285 32661 51013 88272 15528 16105 92219 83187 18722 11525 76534 48977 34831 78817 14351 44316 19295 74930 53957 22874 37382 82344 755 9021 50425 87097 45034 69809 67914 22930 52301 74600 10714 7376 63535 49683 65909 56625 36633 38728 85080 
+[0.2] c5 : SubTask 0 sent  from : 5 to : 0 routed to : 0
+
+[0.2] c5 : SubTask 1 sent  from : 5 to : 1 routed to : 0
+
+[0.2] c5 : SubTask 2 sent  from : 5 to : 2 routed to : 2
+
+[0.2] c5 : SubTask 3 sent  from : 5 to : 3 routed to : 2
+
+[0.2] c5 : SubTask 4 sent  from : 5 to : 4 routed to : 2
+
+[0.2] c5 : SubTask 5 sent  from : 5 to : 5 routed to : 2
+
+[0.2] c5 : SubTask 6 sent  from : 5 to : 6 routed to : 6
+
+[0.2] c5 : SubTask 7 sent  from : 5 to : 0 routed to : 0
+
+[0.2] c5 : SubTask 8 sent  from : 5 to : 1 routed to : 0
+
+[0.2] c5 : SubTask 9 sent  from : 5 to : 2 routed to : 2
+
+[0.2] c5 : SubTask 10 sent  from : 5 to : 3 routed to : 2
+
+[0.2] c5 : SubTask 11 sent  from : 5 to : 4 routed to : 2
+
+[0.2] c6 : Task Created : No. : 1 Length : 46
+[0.2] Task :59969 61802 11283 80268 82684 95746 68191 6059 92707 64313 86725 19918 13275 85837 64522 7454 43778 67199 26647 39738 97693 61976 54955 49307 68792 62873 50072 86300 2937 53466 96178 63765 84450 10652 19096 65687 19971 43652 77126 96338 3865 8794 38771 67206 18042 5699 
+[0.2] c6 : SubTask 0 sent  from : 6 to : 0 routed to : 0
+
+[0.2] c6 : SubTask 1 sent  from : 6 to : 1 routed to : 1
+
+[0.2] c6 : SubTask 2 sent  from : 6 to : 2 routed to : 1
+
+[0.2] c6 : SubTask 3 sent  from : 6 to : 3 routed to : 3
+
+[0.2] c6 : SubTask 4 sent  from : 6 to : 4 routed to : 3
+
+[0.2] c6 : SubTask 5 sent  from : 6 to : 5 routed to : 3
+
+[0.2] c6 : SubTask 6 sent  from : 6 to : 6 routed to : 3
+
+[0.2] c6 : SubTask 7 sent  from : 6 to : 0 routed to : 0
+
+[0.2] c6 : SubTask 8 sent  from : 6 to : 1 routed to : 1
+
+[0.2] c6 : SubTask 9 sent  from : 6 to : 2 routed to : 1
+
+[0.3] c4 : Task routed to : 6 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 11110 57732 36667 56843 72385 
+[0.3] Answer : 72385
+
+[0.3] c1 : Subtask response sent to : 0
+
+[0.3] c2 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 5
+[0.3] Subtask : 94821 89859 65475 23008 30775 
+[0.3] Answer : 94821
+
+[0.3] c2 : Subtask response sent to : 0
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 4
+[0.3] Subtask : 26360 59869 8617 65702 
+[0.3] Answer : 65702
+
+[0.3] c4 : Subtask response sent to : 0
+
+[0.3] c4 : Task routed to : 5 : Destination : 5
+
+[0.3] c4 : Task routed to : 6 : Destination : 6
+
+[0.3] c4 : Task routed to : 6 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 7507 73828 40193 17587 
+[0.3] Answer : 73828
+
+[0.3] c1 : Subtask response sent to : 0
+
+[0.3] c2 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 9 : Sub Task Length : 4
+[0.3] Subtask : 9078 53221 49411 95725 
+[0.3] Answer : 95725
+
+[0.3] c2 : Subtask response sent to : 0
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 0 Task Num : 1
+[0.3] Sub Task Num : 11 : Sub Task Length : 4
+[0.3] Subtask : 75734 71153 83959 89890 
+[0.3] Answer : 89890
+
+[0.3] c4 : Subtask response sent to : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 4
+[0.3] Subtask : 31400 57531 56035 93323 
+[0.3] Answer : 93323
+
+[0.3] c2 : Subtask response sent to : 1
+
+[0.3] c3 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 4
+[0.3] Subtask : 59407 32918 95147 97873 
+[0.3] Answer : 97873
+
+[0.3] c3 : Subtask response sent to : 1
+
+[0.3] c3 : Task routed to : 4 : Destination : 4
+
+[0.3] c5 : Subtask recieved : From : 1 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 4
+[0.3] Subtask : 98454 48531 76271 36976 
+[0.3] Answer : 98454
+
+[0.3] c5 : Subtask response sent to : 1
+
+[0.3] c5 : Task routed to : 6 : Destination : 6
+
+[0.3] c5 : Task routed to : 0 : Destination : 0
+
+[0.3] c5 : Task routed to : 0 : Destination : 1
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c6 : Task routed to : 1 : Destination : 1
+
+[0.3] c6 : Task routed to : 1 : Destination : 2
+
+[0.3] c3 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 3
+[0.3] Subtask : 32841 21570 80828 
+[0.3] Answer : 80828
+
+[0.3] c3 : Subtask response sent to : 2
+
+[0.3] c4 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 3
+[0.3] Subtask : 42815 8498 99499 
+[0.3] Answer : 99499
+
+[0.3] c4 : Subtask response sent to : 2
+
+[0.3] c4 : Task routed to : 5 : Destination : 5
+
+[0.3] c6 : Subtask recieved : From : 2 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 3
+[0.3] Subtask : 25499 98044 41954 
+[0.3] Answer : 98044
+
+[0.3] c6 : Subtask response sent to : 2
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c6 : Task routed to : 1 : Destination : 1
+
+[0.3] c6 : Task routed to : 1 : Destination : 2
+
+[0.3] c0 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 3
+[0.3] Subtask : 86662 62935 1040 
+[0.3] Answer : 86662
+
+[0.3] c0 : Subtask response sent to : 3
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c0 : Task routed to : 2 : Destination : 2
+
+[0.3] c0 : Task routed to : 2 : Destination : 3
+
+[0.3] c4 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 4 : Sub Task Length : 3
+[0.3] Subtask : 52146 12942 79553 
+[0.3] Answer : 79553
+
+[0.3] c4 : Subtask response sent to : 3
+
+[0.3] c5 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 3
+[0.3] Subtask : 82870 20864 74960 
+[0.3] Answer : 82870
+
+[0.3] c5 : Subtask response sent to : 3
+
+[0.3] c5 : Task routed to : 6 : Destination : 6
+
+[0.3] c0 : Subtask recieved : From : 3 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 3
+[0.3] Subtask : 11402 95186 75644 
+[0.3] Answer : 95186
+
+[0.3] c0 : Subtask response sent to : 3
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 21641 52030 63843 31492 23807 
+[0.3] Answer : 63843
+
+[0.3] c1 : Subtask response sent to : 4
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c1 : Task routed to : 3 : Destination : 3
+
+[0.3] c1 : Task routed to : 3 : Destination : 4
+
+[0.3] c5 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 5 : Sub Task Length : 4
+[0.3] Subtask : 2354 74975 99731 33373 
+[0.3] Answer : 99731
+
+[0.3] c5 : Subtask response sent to : 4
+
+[0.3] c6 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 4
+[0.3] Subtask : 16881 53083 43770 98537 
+[0.3] Answer : 98537
+
+[0.3] c6 : Subtask response sent to : 4
+
+[0.3] c6 : Task routed to : 0 : Destination : 0
+
+[0.3] c1 : Subtask recieved : From : 4 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 90851 92679 53746 84924 
+[0.3] Answer : 92679
+
+[0.3] c1 : Subtask response sent to : 4
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c1 : Task routed to : 3 : Destination : 3
+
+[0.3] c0 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 4
+[0.3] Subtask : 139 30399 56886 3285 
+[0.3] Answer : 56886
+
+[0.3] c0 : Subtask response sent to : 5
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 2 : Sub Task Length : 4
+[0.3] Subtask : 16105 92219 83187 18722 
+[0.3] Answer : 92219
+
+[0.3] c2 : Subtask response sent to : 5
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c2 : Task routed to : 4 : Destination : 4
+
+[0.3] c2 : Task routed to : 4 : Destination : 5
+
+[0.3] c6 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 6 : Sub Task Length : 4
+[0.3] Subtask : 82344 755 9021 50425 
+[0.3] Answer : 82344
+
+[0.3] c6 : Subtask response sent to : 5
+
+[0.3] c0 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 4
+[0.3] Subtask : 87097 45034 69809 67914 
+[0.3] Answer : 87097
+
+[0.3] c0 : Subtask response sent to : 5
+
+[0.3] c0 : Task routed to : 1 : Destination : 1
+
+[0.3] c2 : Subtask recieved : From : 5 Task Num : 1
+[0.3] Sub Task Num : 9 : Sub Task Length : 3
+[0.3] Subtask : 10714 7376 63535 
+[0.3] Answer : 63535
+
+[0.3] c2 : Subtask response sent to : 5
+
+[0.3] c2 : Task routed to : 3 : Destination : 3
+
+[0.3] c2 : Task routed to : 4 : Destination : 4
+
+[0.3] c0 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 0 : Sub Task Length : 5
+[0.3] Subtask : 59969 61802 11283 80268 82684 
+[0.3] Answer : 82684
+
+[0.3] c0 : Subtask response sent to : 6
+
+[0.3] c1 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 1 : Sub Task Length : 5
+[0.3] Subtask : 95746 68191 6059 92707 64313 
+[0.3] Answer : 95746
+
+[0.3] c1 : Subtask response sent to : 6
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.3] c3 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 3 : Sub Task Length : 5
+[0.3] Subtask : 7454 43778 67199 26647 39738 
+[0.3] Answer : 67199
+
+[0.3] c3 : Subtask response sent to : 6
+
+[0.3] c3 : Task routed to : 4 : Destination : 4
+
+[0.3] c3 : Task routed to : 5 : Destination : 5
+
+[0.3] c3 : Task routed to : 5 : Destination : 6
+
+[0.3] c0 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 7 : Sub Task Length : 4
+[0.3] Subtask : 19096 65687 19971 43652 
+[0.3] Answer : 65687
+
+[0.3] c0 : Subtask response sent to : 6
+
+[0.3] c1 : Subtask recieved : From : 6 Task Num : 1
+[0.3] Sub Task Num : 8 : Sub Task Length : 4
+[0.3] Subtask : 77126 96338 3865 8794 
+[0.3] Answer : 96338
+
+[0.3] c1 : Subtask response sent to : 6
+
+[0.3] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c6 : Task routed to : 0 : Destination : 0
+
+[0.4] c3 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 5
+[0.4] Subtask : 61636 10177 41277 38141 72667 
+[0.4] Answer : 72667
+
+[0.4] c3 : Subtask response sent to : 0
+
+[0.4] c5 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 4
+[0.4] Subtask : 28886 27217 61169 27463 
+[0.4] Answer : 61169
+
+[0.4] c5 : Subtask response sent to : 0
+
+[0.4] c6 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 4
+[0.4] Subtask : 61837 85876 34285 96101 
+[0.4] Answer : 96101
+
+[0.4] c6 : Subtask response sent to : 0
+
+[0.4] c6 : Task routed to : 0 : Destination : 0
+
+[0.4] c3 : Subtask recieved : From : 0 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 4
+[0.4] Subtask : 96512 23224 32406 71296 
+[0.4] Answer : 96512
+
+[0.4] c3 : Subtask response sent to : 0
+
+[0.4] c0 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 5
+[0.4] Subtask : 16084 81558 36422 46878 84794 
+[0.4] Answer : 84794
+
+[0.4] c0 : Subtask response sent to : 1
+
+[0.4] c0 : Task routed to : 1 : Destination : 1
+
+[0.4] c4 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 4
+[0.4] Subtask : 72371 71174 4308 79870 
+[0.4] Answer : 79870
+
+[0.4] c4 : Subtask response sent to : 1
+
+[0.4] c6 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 4
+[0.4] Subtask : 50152 485 79719 45371 
+[0.4] Answer : 79719
+
+[0.4] c6 : Subtask response sent to : 1
+
+[0.4] c0 : Subtask recieved : From : 1 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 4
+[0.4] Subtask : 39134 86359 51563 10092 
+[0.4] Answer : 86359
+
+[0.4] c0 : Subtask response sent to : 1
+
+[0.4] c0 : Task routed to : 1 : Destination : 1
+
+[0.4] c0 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 4
+[0.4] Subtask : 79573 63474 49440 51601 
+[0.4] Answer : 79573
+
+[0.4] c0 : Subtask response sent to : 2
+
+[0.4] c1 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 3
+[0.4] Subtask : 6318 32189 97394 
+[0.4] Answer : 97394
+
+[0.4] c1 : Subtask response sent to : 2
+
+[0.4] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c5 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 3
+[0.4] Subtask : 39017 59171 20127 
+[0.4] Answer : 59171
+
+[0.4] c5 : Subtask response sent to : 2
+
+[0.4] c0 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 3
+[0.4] Subtask : 40996 85400 3579 
+[0.4] Answer : 85400
+
+[0.4] c0 : Subtask response sent to : 2
+
+[0.4] c1 : Subtask recieved : From : 2 Task Num : 1
+[0.4] Sub Task Num : 8 : Sub Task Length : 3
+[0.4] Subtask : 60356 3919 59286 
+[0.4] Answer : 60356
+
+[0.4] c1 : Subtask response sent to : 2
+
+[0.4] c1 : Task routed to : 2 : Destination : 2
+
+[0.4] c1 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 3
+[0.4] Subtask : 60372 19062 5095 
+[0.4] Answer : 60372
+
+[0.4] c1 : Subtask response sent to : 3
+
+[0.4] c2 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 3
+[0.4] Subtask : 13153 23369 24784 
+[0.4] Answer : 24784
+
+[0.4] c2 : Subtask response sent to : 3
+
+[0.4] c2 : Task routed to : 3 : Destination : 3
+
+[0.4] c6 : Subtask recieved : From : 3 Task Num : 1
+[0.4] Sub Task Num : 6 : Sub Task Length : 3
+[0.4] Subtask : 99542 15425 74265 
+[0.4] Answer : 99542
+
+[0.4] c6 : Subtask response sent to : 3
+
+[0.4] c0 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 0 : Sub Task Length : 5
+[0.4] Subtask : 51166 26367 53267 82150 39652 
+[0.4] Answer : 82150
+
+[0.4] c0 : Subtask response sent to : 4
+
+[0.4] c2 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 5
+[0.4] Subtask : 80496 98944 8445 7076 29274 
+[0.4] Answer : 98944
+
+[0.4] c2 : Subtask response sent to : 4
+
+[0.4] c3 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 5
+[0.4] Subtask : 56084 9632 69910 98181 6775 
+[0.4] Answer : 98181
+
+[0.4] c3 : Subtask response sent to : 4
+
+[0.4] c3 : Task routed to : 4 : Destination : 4
+
+[0.4] c0 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 7 : Sub Task Length : 4
+[0.4] Subtask : 87106 55515 65656 11129 
+[0.4] Answer : 87106
+
+[0.4] c0 : Subtask response sent to : 4
+
+[0.4] c2 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 9 : Sub Task Length : 4
+[0.4] Subtask : 72467 27052 90326 24154 
+[0.4] Answer : 90326
+
+[0.4] c2 : Subtask response sent to : 4
+
+[0.4] c3 : Subtask recieved : From : 4 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 4
+[0.4] Subtask : 22277 54237 98852 66961 
+[0.4] Answer : 98852
+
+[0.4] c3 : Subtask response sent to : 4
+
+[0.4] c1 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 1 : Sub Task Length : 4
+[0.4] Subtask : 32661 51013 88272 15528 
+[0.4] Answer : 88272
+
+[0.4] c1 : Subtask response sent to : 5
+
+[0.4] c3 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 3 : Sub Task Length : 4
+[0.4] Subtask : 11525 76534 48977 34831 
+[0.4] Answer : 76534
+
+[0.4] c3 : Subtask response sent to : 5
+
+[0.4] c4 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 4
+[0.4] Subtask : 78817 14351 44316 19295 
+[0.4] Answer : 78817
+
+[0.4] c4 : Subtask response sent to : 5
+
+[0.4] c4 : Task routed to : 5 : Destination : 5
+
+[0.4] c1 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 8 : Sub Task Length : 3
+[0.4] Subtask : 22930 52301 74600 
+[0.4] Answer : 74600
+
+[0.4] c1 : Subtask response sent to : 5
+
+[0.4] c3 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 10 : Sub Task Length : 3
+[0.4] Subtask : 49683 65909 56625 
+[0.4] Answer : 65909
+
+[0.4] c3 : Subtask response sent to : 5
+
+[0.4] c4 : Subtask recieved : From : 5 Task Num : 1
+[0.4] Sub Task Num : 11 : Sub Task Length : 3
+[0.4] Subtask : 36633 38728 85080 
+[0.4] Answer : 85080
+
+[0.4] c4 : Subtask response sent to : 5
+
+[0.4] c2 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 2 : Sub Task Length : 5
+[0.4] Subtask : 86725 19918 13275 85837 64522 
+[0.4] Answer : 86725
+
+[0.4] c2 : Subtask response sent to : 6
+
+[0.4] c4 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 4 : Sub Task Length : 5
+[0.4] Subtask : 97693 61976 54955 49307 68792 
+[0.4] Answer : 97693
+
+[0.4] c4 : Subtask response sent to : 6
+
+[0.4] c5 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 5 : Sub Task Length : 5
+[0.4] Subtask : 62873 50072 86300 2937 53466 
+[0.4] Answer : 86300
+
+[0.4] c5 : Subtask response sent to : 6
+
+[0.4] c5 : Task routed to : 6 : Destination : 6
+
+[0.4] c2 : Subtask recieved : From : 6 Task Num : 1
+[0.4] Sub Task Num : 9 : Sub Task Length : 4
+[0.4] Subtask : 38771 67206 18042 5699 
+[0.4] Answer : 67206
+
+[0.4] c2 : Subtask response sent to : 6
+
+[0.5] c0 : Subtask recieved : From : 0 Task Num : 1
+[0.5] Sub Task Num : 0 : Sub Task Length : 5
+[0.5] Subtask : 13317 45606 5557 75869 22319 
+[0.5] Answer : 75869
+
+[0.5] c0 : Subtask response sent to : 0
+
+[0.5] c0 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :72385
+
+[0.5] c0 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :94821
+
+[0.5] c0 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :72667
+
+[0.5] c0 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :65702
+
+[0.5] c0 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :61169
+
+[0.5] c0 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :96101
+
+[0.5] c0 : Subtask recieved : From : 0 Task Num : 1
+[0.5] Sub Task Num : 7 : Sub Task Length : 4
+[0.5] Subtask : 87847 20733 33449 18981 
+[0.5] Answer : 87847
+
+[0.5] c0 : Subtask response sent to : 0
+
+[0.5] c0 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :73828
+
+[0.5] c0 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :95725
+
+[0.5] c0 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :96512
+
+[0.5] c0 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 11 : answer :89890
+
+[0.5] c1 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :84794
+
+[0.5] c1 : Subtask recieved : From : 1 Task Num : 1
+[0.5] Sub Task Num : 1 : Sub Task Length : 4
+[0.5] Subtask : 27043 74163 79628 94598 
+[0.5] Answer : 94598
+
+[0.5] c1 : Subtask response sent to : 1
+
+[0.5] c1 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :93323
+
+[0.5] c1 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :97873
+
+[0.5] c1 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :79870
+
+[0.5] c1 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :98454
+
+[0.5] c1 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :79719
+
+[0.5] c1 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :86359
+
+[0.5] c1 : Subtask recieved : From : 1 Task Num : 1
+[0.5] Sub Task Num : 8 : Sub Task Length : 4
+[0.5] Subtask : 3089 45148 65943 81808 
+[0.5] Answer : 81808
+
+[0.5] c1 : Subtask response sent to : 1
+
+[0.5] c2 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :79573
+
+[0.5] c2 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :97394
+
+[0.5] c2 : Subtask recieved : From : 2 Task Num : 1
+[0.5] Sub Task Num : 2 : Sub Task Length : 3
+[0.5] Subtask : 94799 20363 14570 
+[0.5] Answer : 94799
+
+[0.5] c2 : Subtask response sent to : 2
+
+[0.5] c2 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :80828
+
+[0.5] c2 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :99499
+
+[0.5] c2 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :59171
+
+[0.5] c2 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :98044
+
+[0.5] c2 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :85400
+
+[0.5] c2 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :60356
+
+[0.5] c2 : Subtask recieved : From : 2 Task Num : 1
+[0.5] Sub Task Num : 9 : Sub Task Length : 3
+[0.5] Subtask : 9996 35009 47058 
+[0.5] Answer : 47058
+
+[0.5] c2 : Subtask response sent to : 2
+
+[0.5] c3 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :86662
+
+[0.5] c3 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :60372
+
+[0.5] c3 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :24784
+
+[0.5] c3 : Subtask recieved : From : 3 Task Num : 1
+[0.5] Sub Task Num : 3 : Sub Task Length : 3
+[0.5] Subtask : 24077 92637 6739 
+[0.5] Answer : 92637
+
+[0.5] c3 : Subtask response sent to : 3
+
+[0.5] c3 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :79553
+
+[0.5] c3 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :82870
+
+[0.5] c3 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :99542
+
+[0.5] c3 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :95186
+
+[0.5] c4 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :82150
+
+[0.5] c4 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :63843
+
+[0.5] c4 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :98944
+
+[0.5] c4 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :98181
+
+[0.5] c4 : Subtask recieved : From : 4 Task Num : 1
+[0.5] Sub Task Num : 4 : Sub Task Length : 4
+[0.5] Subtask : 44972 71038 66345 60750 
+[0.5] Answer : 71038
+
+[0.5] c4 : Subtask response sent to : 4
+
+[0.5] c4 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :99731
+
+[0.5] c4 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :98537
+
+[0.5] c4 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87106
+
+[0.5] c4 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :92679
+
+[0.5] c4 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :90326
+
+[0.5] c4 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :98852
+
+[0.5] c5 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :56886
+
+[0.5] c5 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :88272
+
+[0.5] c5 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :92219
+
+[0.5] c5 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :76534
+
+[0.5] c5 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :78817
+
+[0.5] c5 : Subtask recieved : From : 5 Task Num : 1
+[0.5] Sub Task Num : 5 : Sub Task Length : 4
+[0.5] Subtask : 74930 53957 22874 37382 
+[0.5] Answer : 74930
+
+[0.5] c5 : Subtask response sent to : 5
+
+[0.5] c5 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :82344
+
+[0.5] c5 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87097
+
+[0.5] c5 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :74600
+
+[0.5] c5 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :63535
+
+[0.5] c5 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 10 : answer :65909
+
+[0.5] c5 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 11 : answer :85080
+
+[0.5] c6 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :82684
+
+[0.5] c6 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :95746
+
+[0.5] c6 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :86725
+
+[0.5] c6 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :67199
+
+[0.5] c6 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :97693
+
+[0.5] c6 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :86300
+
+[0.5] c6 : Subtask recieved : From : 6 Task Num : 1
+[0.5] Sub Task Num : 6 : Sub Task Length : 4
+[0.5] Subtask : 96178 63765 84450 10652 
+[0.5] Answer : 96178
+
+[0.5] c6 : Subtask response sent to : 6
+
+[0.5] c6 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :65687
+
+[0.5] c6 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :96338
+
+[0.5] c6 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :67206
+
+[0.8] c0 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 0 : answer :75869
+
+[0.8] c0 : Sub Task Resp recv : From : 0 : task num : 1 : subtask num : 7 : answer :87847
+
+[0.8] c0 : Task Solved : Task Num : 1 Answer :96512
+
+[0.8] c0 : Gossip Sent From : 0 : to : 1
+
+[0.8] c0 : Gossip Sent From : 0 : to : 2
+
+[0.8] c0 : Gossip Sent From : 0 : to : 4
+
+[0.8] c1 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 1 : answer :94598
+
+[0.8] c1 : Sub Task Resp recv : From : 1 : task num : 1 : subtask num : 8 : answer :81808
+
+[0.8] c1 : Task Solved : Task Num : 1 Answer :98454
+
+[0.8] c1 : Gossip Sent From : 1 : to : 2
+
+[0.8] c1 : Gossip Sent From : 1 : to : 3
+
+[0.8] c1 : Gossip Sent From : 1 : to : 5
+
+[0.8] c2 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 2 : answer :94799
+
+[0.8] c2 : Sub Task Resp recv : From : 2 : task num : 1 : subtask num : 9 : answer :47058
+
+[0.8] c2 : Task Solved : Task Num : 1 Answer :99499
+
+[0.8] c2 : Gossip Sent From : 2 : to : 3
+
+[0.8] c2 : Gossip Sent From : 2 : to : 4
+
+[0.8] c2 : Gossip Sent From : 2 : to : 6
+
+[0.8] c3 : Sub Task Resp recv : From : 3 : task num : 1 : subtask num : 3 : answer :92637
+
+[0.8] c3 : Task Solved : Task Num : 1 Answer :99542
+
+[0.8] c3 : Gossip Sent From : 3 : to : 4
+
+[0.8] c3 : Gossip Sent From : 3 : to : 5
+
+[0.8] c3 : Gossip Sent From : 3 : to : 0
+
+[0.8] c4 : Sub Task Resp recv : From : 4 : task num : 1 : subtask num : 4 : answer :71038
+
+[0.8] c4 : Task Solved : Task Num : 1 Answer :99731
+
+[0.8] c4 : Gossip Sent From : 4 : to : 5
+
+[0.8] c4 : Gossip Sent From : 4 : to : 6
+
+[0.8] c4 : Gossip Sent From : 4 : to : 1
+
+[0.8] c5 : Sub Task Resp recv : From : 5 : task num : 1 : subtask num : 5 : answer :74930
+
+[0.8] c5 : Task Solved : Task Num : 1 Answer :92219
+
+[0.8] c5 : Gossip Sent From : 5 : to : 6
+
+[0.8] c5 : Gossip Sent From : 5 : to : 0
+
+[0.8] c5 : Gossip Sent From : 5 : to : 2
+
+[0.8] c6 : Sub Task Resp recv : From : 6 : task num : 1 : subtask num : 6 : answer :96178
+
+[0.8] c6 : Task Solved : Task Num : 1 Answer :97693
+
+[0.8] c6 : Gossip Sent From : 6 : to : 0
+
+[0.8] c6 : Gossip Sent From : 6 : to : 1
+
+[0.8] c6 : Gossip Sent From : 6 : to : 3
+
+[0.9] c1 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c2 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip recv from : 0 Gossip = 0.8:c0:1:96512
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c2 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c3 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip recv from : 1 Gossip = 0.8:c1:1:98454
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c3 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[0.9] c4 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip recv from : 2 Gossip = 0.8:c2:1:99499
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c4 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c4 : Gossip Forwarded to : 5
+
+[0.9] c4 : Gossip Forwarded to : 6
+
+[0.9] c4 : Gossip Forwarded to : 1
+
+[0.9] c5 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip recv from : 3 Gossip = 0.8:c3:1:99542
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c5 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c5 : Gossip Forwarded to : 6
+
+[0.9] c5 : Gossip Forwarded to : 0
+
+[0.9] c5 : Gossip Forwarded to : 2
+
+[0.9] c6 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip recv from : 4 Gossip = 0.8:c4:1:99731
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c6 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c6 : Gossip Forwarded to : 0
+
+[0.9] c6 : Gossip Forwarded to : 1
+
+[0.9] c6 : Gossip Forwarded to : 3
+
+[0.9] c0 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip recv from : 5 Gossip = 0.8:c5:1:92219
+
+[0.9] c2 : Gossip Forwarded to : 3
+
+[0.9] c2 : Gossip Forwarded to : 4
+
+[0.9] c2 : Gossip Forwarded to : 6
+
+[0.9] c0 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c0 : Gossip Forwarded to : 1
+
+[0.9] c0 : Gossip Forwarded to : 2
+
+[0.9] c0 : Gossip Forwarded to : 4
+
+[0.9] c1 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c1 : Gossip Forwarded to : 2
+
+[0.9] c1 : Gossip Forwarded to : 3
+
+[0.9] c1 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip recv from : 6 Gossip = 0.8:c6:1:97693
+
+[0.9] c3 : Gossip Forwarded to : 4
+
+[0.9] c3 : Gossip Forwarded to : 5
+
+[0.9] c3 : Gossip Forwarded to : 0
+
+[1] c3 : Gossip recv from : 1 Gossip = 0.8:c0:1:96512
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip recv from : 1 Gossip = 0.8:c0:1:96512
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1] c6 : Gossip recv from : 2 Gossip = 0.8:c0:1:96512
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c4 : Gossip recv from : 2 Gossip = 0.8:c1:1:98454
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip recv from : 2 Gossip = 0.8:c1:1:98454
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c0 : Gossip recv from : 3 Gossip = 0.8:c1:1:98454
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c5 : Gossip recv from : 3 Gossip = 0.8:c2:1:99499
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip recv from : 3 Gossip = 0.8:c2:1:99499
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c1 : Gossip recv from : 4 Gossip = 0.8:c2:1:99499
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c6 : Gossip recv from : 4 Gossip = 0.8:c3:1:99542
+
+[1] c6 : Gossip Forwarded to : 0
+
+[1] c6 : Gossip Forwarded to : 1
+
+[1] c6 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip recv from : 4 Gossip = 0.8:c3:1:99542
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c2 : Gossip recv from : 5 Gossip = 0.8:c3:1:99542
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c0 : Gossip recv from : 5 Gossip = 0.8:c4:1:99731
+
+[1] c0 : Gossip Forwarded to : 1
+
+[1] c0 : Gossip Forwarded to : 2
+
+[1] c0 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip recv from : 5 Gossip = 0.8:c4:1:99731
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c3 : Gossip recv from : 6 Gossip = 0.8:c4:1:99731
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c1 : Gossip recv from : 6 Gossip = 0.8:c5:1:92219
+
+[1] c1 : Gossip Forwarded to : 2
+
+[1] c1 : Gossip Forwarded to : 3
+
+[1] c1 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip recv from : 6 Gossip = 0.8:c5:1:92219
+
+[1] c3 : Gossip Forwarded to : 4
+
+[1] c3 : Gossip Forwarded to : 5
+
+[1] c3 : Gossip Forwarded to : 0
+
+[1] c4 : Gossip recv from : 0 Gossip = 0.8:c5:1:92219
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c2 : Gossip recv from : 0 Gossip = 0.8:c6:1:97693
+
+[1] c2 : Gossip Forwarded to : 3
+
+[1] c2 : Gossip Forwarded to : 4
+
+[1] c2 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip recv from : 0 Gossip = 0.8:c6:1:97693
+
+[1] c4 : Gossip Forwarded to : 5
+
+[1] c4 : Gossip Forwarded to : 6
+
+[1] c4 : Gossip Forwarded to : 1
+
+[1] c5 : Gossip recv from : 1 Gossip = 0.8:c6:1:97693
+
+[1] c5 : Gossip Forwarded to : 6
+
+[1] c5 : Gossip Forwarded to : 0
+
+[1] c5 : Gossip Forwarded to : 2
+
+[1.1] c0 : Gossip recv from : 3 Gossip = 0.8:c0:1:96512
+
+[1.1] c0 : Gossip Forwarded to : 1
+
+[1.1] c0 : Gossip Forwarded to : 2
+
+[1.1] c0 : Gossip Forwarded to : 4
+
+[1.1] c1 : Gossip recv from : 4 Gossip = 0.8:c1:1:98454
+
+[1.1] c1 : Gossip Forwarded to : 2
+
+[1.1] c1 : Gossip Forwarded to : 3
+
+[1.1] c1 : Gossip Forwarded to : 5
+
+[1.1] c2 : Gossip recv from : 5 Gossip = 0.8:c2:1:99499
+
+[1.1] c2 : Gossip Forwarded to : 3
+
+[1.1] c2 : Gossip Forwarded to : 4
+
+[1.1] c2 : Gossip Forwarded to : 6
+
+[1.1] c3 : Gossip recv from : 6 Gossip = 0.8:c3:1:99542
+
+[1.1] c3 : Gossip Forwarded to : 4
+
+[1.1] c3 : Gossip Forwarded to : 5
+
+[1.1] c3 : Gossip Forwarded to : 0
+
+[1.1] c4 : Gossip recv from : 0 Gossip = 0.8:c4:1:99731
+
+[1.1] c4 : Gossip Forwarded to : 5
+
+[1.1] c4 : Gossip Forwarded to : 6
+
+[1.1] c4 : Gossip Forwarded to : 1
+
+[1.1] c5 : Gossip recv from : 1 Gossip = 0.8:c5:1:92219
+
+[1.1] c5 : Gossip Forwarded to : 6
+
+[1.1] c5 : Gossip Forwarded to : 0
+
+[1.1] c5 : Gossip Forwarded to : 2
+
+[1.1] c6 : Gossip recv from : 2 Gossip = 0.8:c6:1:97693
+
+[1.1] c6 : Gossip Forwarded to : 0
+
+[1.1] c6 : Gossip Forwarded to : 1
+
+[1.1] c6 : Gossip Forwarded to : 3
+

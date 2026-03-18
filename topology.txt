@@ -1,0 +1,9 @@
+parameters
+{
+clients = 7
+}
+
+client -> client delay
+{
+[100,100,100,100,100,100,100]
+}
